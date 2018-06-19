@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/black-bits/laravel-firewall.svg?style=flat-square)](https://packagist.org/packages/black-bits/laravel-firewall)
 [![Total Downloads](https://img.shields.io/packagist/dt/black-bits/laravel-firewall.svg?style=flat-square)](https://packagist.org/packages/black-bits/laravel-firewall)
+[![StyleCI](https://styleci.io/repos/137923453/shield)](https://styleci.io/repos/137923453)
 
 This Laravel package provides you with a simple IP based white and black list functionality.
 
